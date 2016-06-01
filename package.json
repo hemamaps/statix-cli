@@ -1,0 +1,25 @@
+{
+  "name": "statix-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hemamaps/statix-cli.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hemamaps/statix-cli/issues"
+  },
+  "homepage": "https://github.com/hemamaps/statix-cli#readme",
+  "dependencies": {
+    "commander": "^2.9.0"
+  },
+  "bin": {
+    "statix": "./cli.js"
+  }
+}
