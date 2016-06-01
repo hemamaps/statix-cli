@@ -6,7 +6,8 @@ in the root of your project to use this CLI. View [hemamaps/statix](https://gith
 1. `npm install -g hemamaps/statix-cli`
 
 ## Usage
-### Run a server
+### Run a development server
+
  1. `CD path/to/project/dir`
  2. `statix server`
 
